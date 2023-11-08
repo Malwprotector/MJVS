@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Majority Judgment voting system, conceived by French researchers Michel Balinski and Rida Laraki, is a single-winner voting system proposed in 2010 by Michel Balinski and Rida Laraki. It was introduced through a mathematical theory published in 2007 and later expanded upon in a comprehensive book published by MIT Press in 2011. The Majority Judgment system stands as a significant advancement in electoral theory, addressing the constraints identified in Arrow's Impossibility Theorem (1951) within the field of social choice theory.
+[The Majority Judgment voting system](https://en.wikipedia.org/wiki/Majority_judgment), conceived by French researchers Michel Balinski and Rida Laraki, is a single-winner voting system proposed in 2010 by Michel Balinski and Rida Laraki. It was introduced through a mathematical theory published in 2007 and later expanded upon in a comprehensive book published by MIT Press in 2011. The Majority Judgment system stands as a significant advancement in electoral theory, addressing the constraints identified in Arrow's Impossibility Theorem (1951) within the field of social choice theory.
 
 The essence of the Majority Judgment system lies in its ability to offer voters the freedom to express their opinions through qualitative ratings, referred to as "mentions", rather than using traditional numerical or categorical ballots. This innovative approach to voting aims to provide a more intuitive and universally understood method for gauging voter sentiment.
 
@@ -57,7 +57,7 @@ For a more in-depth understanding of the Majority Judgment voting system, it is 
 
 ## Acknowledgements
 
-Special appreciation goes to Michel Balinski and Rida Laraki for their groundbreaking contributions to the development of the Majority Judgment voting system.
+Special appreciation goes to Michel Balinski and Rida Laraki for their groundbreaking contributions to the development of the [Majority Judgment](https://en.wikipedia.org/wiki/Majority_judgment).
 
 ## License
 

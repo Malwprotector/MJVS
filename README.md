@@ -27,17 +27,18 @@ This Python script provides a user-friendly graphical interface for conducting e
 
 ### Getting Started
 
-1. **Setting up the Environment**: Ensure you have Python installed on your system.
+1. **Setting up the Environment**: Ensure you have [Python](https://www.python.org) installed on your system.
 
-2. **Running the Script**: Execute the Python script provided in this repository.
+2. **Running the Script**: Execute the Python script provided in this repository:
+    ```python3 mjvs.py``` or  ```python mjvs.py ``` 
 
-3. **GUI Interface**: The GUI will prompt you to enter the number of voters and candidates.
+4. **GUI Interface**: The GUI will prompt you to enter the number of voters and candidates.
 
-4. **Entering Votes**: For each voter, assign mentions to each candidate using the drop-down menu.
+5. **Entering Votes**: For each voter, assign mentions to each candidate using the drop-down menu.
 
-5. **Calculating Results**: Click the "Calculate Results" button to compute the election outcome.
+6. **Calculating Results**: Click the "Calculate Results" button to compute the election outcome.
 
-6. **Viewing Results**: The script will generate horizontal bar charts representing the results for each candidate.
+7. **Viewing Results**: The script will generate horizontal bar charts representing the results for each candidate.
    
 The candidate with the highest median score is the winner. If several candidates have the same highest median score, the winner of the majority judgment is discovered by deleting (one by one) all the scores equal in value to the shared median score in the column of each tied candidate. This operation is repeated until only one of the previously tied candidates has the highest median score. 
 

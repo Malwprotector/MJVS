@@ -20,7 +20,7 @@ The adoption of the Majority Judgment system comes with several distinct benefit
 
 5. **Transparent Candidate Support**: Each candidate's "merit profile" is determined by the proportions of different mentions assigned by voters, offering invaluable insights into the types of support each elected candidate enjoys.
 
-## How to Use the Script
+## How to Use this software
 
 This Python script provides a user-friendly graphical interface for conducting elections using the Majority Judgment voting system. It facilitates the input of candidate details, collection of votes, and visualization of the results through stacked horizontal bar charts.
 

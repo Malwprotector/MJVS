@@ -1,4 +1,5 @@
 # MJVS - Majority Judgment Voting System
+<img src='results.png'></a>
 
 ## Overview
 
